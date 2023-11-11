@@ -1,0 +1,6 @@
+[connect]
+token = токен Kate Mobile
+rts = ваш цифровой id
+post = id поста
+message = текст коментария
+attachments = вложение макс.:2
